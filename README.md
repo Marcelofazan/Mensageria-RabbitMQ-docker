@@ -1,4 +1,4 @@
-## 🔌 Mensageria-RabbitMQ-Api10-EF-local
+## 🔌 Mensageria-RabbitMQ-Api10-EF
 Exemplo de comunicação API por mensageria com RabbitMQ em C# ASP.NET Core 10 com banco de dados SQLite.
 
 | Tecnologia | Descrição     |
