@@ -1,5 +1,5 @@
-## 🔌 Mensageria-RabbitMQ-Api10-EF
-Exemplo de comunicação API por mensageria com RabbitMQ em C# ASP.NET Core 10 com banco de dados SQLite.
+## 🔌 Mensageria-RabbitMQ-Api10
+Exemplo de comunicação API por mensageria com RabbitMQ em C# ASP.NET Core 10 EF com banco de dados SQLite.
 
 | Tecnologia | Descrição     |
 |----------------|-----------|
