@@ -1,4 +1,4 @@
-## 🔌 Mensageria-RabbitMQ-Api10-docker
+## 🔌 Mensageria-RabbitMQ-docker
 Exemplo de API por mensageria com RabbitMQ em C# ASP.NET Core 10 EF com banco de dados SQLite.
 
 | Tecnologia | Descrição     |
